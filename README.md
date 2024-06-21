@@ -1,4 +1,4 @@
-#Sorting Algorithms in C++
+# Sorting Algorithms in C++
 This repository contains implementations of various sorting algorithms in C++. Currently, it includes the following algorithms:
 
 Quick Sort (Already Implemented)
